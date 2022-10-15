@@ -13,3 +13,4 @@ public class nus {
         c = Math.sqrt((a * a) + (b * b));
         System.out.println("HİPOTENÜSÜN UZUNLUĞU:" +c);
     }
+www.patika.dev
